@@ -1,0 +1,173 @@
+#navbar{
+    height:90px ;
+    width:1440px;
+}
+#navimage{
+    height: full;
+    width: full;
+}
+
+#text1 {
+    width: 466px;
+    height: 42px;
+    position: absolute;
+    top: 108px;
+    left: 187px;
+    color:  #0029FF;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+#box1{
+    width: 1066px;
+    height: 135px;
+    top: 187px;
+    left: 187px;
+    position: absolute;
+
+border-radius: 5px 0px 0px 0px;
+background-color: 
+#E9ECEF;
+padding: 20px
+
+
+}
+#box2{
+    width: 1012px;
+    height: 85px;
+}
+
+#box3{
+    width: 480px;
+    height: 580px;
+    position: absolute;
+    top: 397px;
+    left: 214px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px  ;
+    background-color: #FDFDFD;
+    
+    
+}
+#box4{
+    width: 480px;
+    height: 580px;
+    position: absolute;
+    top: 397px;
+    left: 746px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px ;
+    background-color: #FDFDFD;
+    
+    
+}
+#box5{
+    
+    width: 480px;
+    height: 580px;
+    position: absolute;
+    top: 1034px;
+    left: 214px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px  ;
+    background-color: #FDFDFD;
+    
+    
+
+}
+#box6{
+    width: 480px;
+    height: 580px;
+    position: absolute;
+    top: 1034px;
+    left: 746px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px  ;
+    background-color: #FDFDFD;
+    
+    
+}
+#head{
+    width: 480px;
+height: 50px;
+position: absolute;
+top: 0;
+left: 0;
+background-color: black;
+color: white ;
+border-radius: 15px 15px 0px 0px;
+text-align: center;
+
+
+}
+#mid{
+width: 453px;
+height: 83px;
+position: absolute ;
+top:    54px;
+left: 0;
+
+
+}
+#img1{
+    position: absolute ;
+    top:    120px;
+    left: 0;
+}
+#thread{
+    position: absolute ;
+    top:    100px;
+    left: 0;
+}
+#img2{
+    position: absolute ;
+    top:    155px;
+    left: 0;
+
+}
+#img3{
+    position: absolute ;
+    top:    155px;
+    left: 250px;
+
+}
+#img4{
+    position: absolute ;
+    top:    275px;
+    left: 85px;
+
+}
+#img5{
+    position: absolute ;
+    top:    268px;
+    left: 257px;
+
+}
+#img6{
+    position: absolute ;
+    top:    268px;
+    left: 368px;
+
+}
+#img7{
+    position: absolute ;
+    top:    345px;
+    left: 11px;
+
+}
+#img8{
+    position: absolute ;
+    top:    398px;
+    left: 11px;
+}
+
+#t{
+    position: absolute ;
+    top:    0px;
+    left: 100px;
+
+}
